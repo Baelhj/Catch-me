@@ -1,0 +1,55 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #21bdd1;
+  color: bisque;
+  height: 100%;
+  font-family: "Comic Neue", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.container {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-direction: column;
+}
+
+.title {
+  text-align: center;
+}
+
+.title-h {
+  font-size: 100px;
+}
+
+.title-p {
+  font-size: 50px;
+}
+
+.start {
+  font-size: 30px;
+  text-align: center;
+  padding: 10px;
+}
+
+.order {
+  background-color: #00000050;
+  width: 100%;
+}
+
+.imging {
+  height: 250px;
+  width: 250px;
+}
+
+.sound > img {
+  height: 70px;
+  width: 70px;
+}
