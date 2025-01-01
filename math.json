@@ -1,0 +1,55 @@
+{
+    "math": [
+      {
+        "id": 1,
+        "problem": "5 + 3",
+        "solution": 8
+      },
+      {
+        "id": 2,
+        "problem": "9 - 4",
+        "solution": 5
+      },
+      {
+        "id": 3,
+        "problem": "7 * 2",
+        "solution": 14
+      },
+      {
+        "id": 4,
+        "problem": "12 / 4",
+        "solution": 3
+      },
+      {
+        "id": 5,
+        "problem": "15 + 10",
+        "solution": 25
+      },
+      {
+        "id": 6,
+        "problem": "18 - 9",
+        "solution": 9
+      },
+      {
+        "id": 7,
+        "problem": "3 * 6",
+        "solution": 18
+      },
+      {
+        "id": 8,
+        "problem": "16 / 2",
+        "solution": 8
+      },
+      {
+        "id": 9,
+        "problem": "25 + 5",
+        "solution": 30
+      },
+      {
+        "id": 10,
+        "problem": "30 - 15",
+        "solution": 15
+      }
+    ]
+  }
+  
