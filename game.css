@@ -44,7 +44,6 @@ body {
   justify-content: center;
   align-items: center;
   gap: 1px;
-  background-color: antiquewhite;
 }
 
 .board > .row > div {
@@ -58,6 +57,12 @@ body {
 
   background-color: #364e5f;
   border-radius: 50%;
+
+  cursor: pointer;
+}
+
+.board > .row > div:hover {
+  background-color: #4d6c85;
 }
 
 .row {
