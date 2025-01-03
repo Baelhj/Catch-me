@@ -78,6 +78,13 @@ body {
   margin-right: 2vw;
 }
 
+#again {
+  cursor: pointer;
+  background-color: #00000050;
+  width: 100vw;
+  font-size: clamp(20px, 3vw, 40px);;
+}
+
 /* 
 color p1: #B0EFC0
 color p2: #FFD166
